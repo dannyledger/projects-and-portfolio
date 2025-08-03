@@ -9,7 +9,6 @@ Please note: the various tasks and datasets likely originate either from _DataCa
 
 Below is an overview of the various projects that can be found, and the skills (commented on the right-side) they look to demonstrate. 
 
-### 📂 Repository Structure
 ```
 portfolio/
 │
