@@ -7,6 +7,8 @@ The various tasks and datasets likely originate either from DataCamp’s various
 
 ---
 
+Below is an overview of the very projects that can be found, and the key skills they look to demonstrate:
+
 ### 📂 Repository Structure
 ```
 portfolio/
