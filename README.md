@@ -23,16 +23,16 @@ portfolio/
 │   ├── nobel_prize/                             # Method chaining, filtering with multiple conditions
 │   └── star_wars_lego/                          # Trial-and-error EDA, dataset linking
 │
-├── data_prep/                                  # Data cleaning and optimisation
-│   ├── airbnb_data_prep/                       # Cleaning multi-format files and merging datasets
-│   └── prep_memory_reduce/                     # Downcasting datatypes for memory efficiency
+├── data_prep/                                   # Data cleaning and optimisation
+│   ├── airbnb_data_prep/                        # Cleaning multi-format files and merging datasets
+│   └── prep_memory_reduce/                      # Downcasting datatypes for memory efficiency
 │
-├── hypothesis_testing/                         # Introductory inferential statistics
-│   ├── drug_safety/                            # Two-sample t-tests, testing significance
-│   └── worldcups/                              # One-tailed t-tests on football match data
+├── hypothesis_testing/                          # Introductory inferential statistics
+│   ├── drug_safety/                             # Two-sample t-tests, testing significance
+│   └── worldcups/                               # One-tailed t-tests on football match data
 │
-└── python_basics/                              # Core Python scripting skills
-    ├── planets/                                # Loops, lists, and basic file handling
-    └── movie_streaming/                        # Beginner Pandas and simple visualisation
+└── python_basics/                               # Core Python scripting skills
+    ├── planets/                                 # Loops, lists, and basic file handling
+    └── movie_streaming/                         # Beginner Pandas and simple visualisation
 
 ```
