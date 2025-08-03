@@ -1,5 +1,5 @@
-# Welcome to my technical skill portfolio 🛠️💡😊
-### Any and all attempts to build my technical skills.
+## Welcome to my technical skill portfolio 🛠️💡😊
+#### Any and all attempts to build my technical skills.
 
 This is where I house all my _(audience-friendly)_ practice projects and case studies. 
 The majority of my work in SQL and Python is produced with an aim of demonstrating a motivation to do well in various aspects of data, but particulary data engineering.
