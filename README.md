@@ -12,7 +12,7 @@ Below is an overview of the various projects that can be found, and the skills (
 ```
 portfolio/
 │
-├── building_a_DWH/                       # Beginner-level warehouse construction and development notes
+├── building_a_DWH/                       # early-level warehouse construction and development notes
 │   └── a_beginner_warehouse/             # Data warehouse using medallion architecture
 │
 ├── SQL/                                  # SQL querying and analysis practice
