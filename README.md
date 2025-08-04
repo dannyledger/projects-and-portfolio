@@ -12,29 +12,29 @@ Below is an overview of the various projects that can be found, and the skills (
 ```
 portfolio/
 │
-├── building_a_DWH/                              # Beginner-level warehouse construction and development notes
-│   └── a_beginner_warehouse/                    # Data warehouse using medallion architecture
+├── building_a_DWH/                       # Beginner-level warehouse construction and development notes
+│   └── a_beginner_warehouse/             # Data warehouse using medallion architecture
 │
-├── SQL/                                         # SQL querying and analysis practice
-│   ├── analyzing_students_mental_health/        # Basic SQL: SELECT, filtering, GROUP BY, aggregation
-│   └── exploring_london_travel_network/         # Snowflake SQL: joins, trends over time
+├── SQL/                                  # SQL querying and analysis practice
+│   ├── analyzing_students_health/        # Basic SQL: SELECT, filtering, GROUP BY, aggregation
+│   └── exploring_travel_network/         # Snowflake SQL: joins, trends over time
 │
-├── pandas_practice/                             # Exploratory analysis and wrangling with Pandas
-│   ├── SATS_scores/                             # Grouping, merging, conditional logic in Pandas
-│   ├── city_crimes/                             # Working with datetime, counts, and bar charts
-│   ├── nobel_prize/                             # Method chaining, filtering with multiple conditions
-│   └── star_wars_lego/                          # Trial-and-error EDA, dataset linking
+├── pandas_practice/                      # Exploratory analysis and wrangling with Pandas
+│   ├── SATS_scores/                      # Grouping, merging, conditional logic in Pandas
+│   ├── city_crimes/                      # Working with datetime, counts, and bar charts
+│   ├── nobel_prize/                      # Method chaining, filtering with multiple conditions
+│   └── star_wars_lego/                   # Trial-and-error EDA, dataset linking
 │
-├── data_prep/                                   # Data cleaning and optimisation
-│   ├── airbnb_data_prep/                        # Cleaning multi-format files and merging datasets
-│   └── prep_memory_reduce/                      # Downcasting datatypes for memory efficiency
+├── data_prep/                            # Data cleaning and optimisation
+│   ├── airbnb_data_prep/                 # Cleaning multi-format files and merging datasets
+│   └── prep_memory_reduce/               # Downcasting datatypes for memory efficiency
 │
-├── hypothesis_testing/                          # Introductory inferential statistics
-│   ├── drug_safety/                             # Two-sample t-tests, testing significance
-│   └── worldcups/                               # One-tailed t-tests on football match data
+├── hypothesis_testing/                   # Introductory inferential statistics
+│   ├── drug_safety/                      # Two-sample t-tests, testing significance
+│   └── worldcups/                        # One-tailed t-tests on football match data
 │
-└── python_basics/                               # Core Python scripting skills
-    ├── planets/                                 # Loops, lists, and basic file handling
-    └── movie_streaming/                         # Beginner Pandas and simple visualisation
+└── python_basics_and_archive/            # Core Python scripting skills
+    ├── planets/                          # Loops, lists, and basic file handling
+    └── movie_streaming/                  # Beginner Pandas and simple visualisation
 
 ```
