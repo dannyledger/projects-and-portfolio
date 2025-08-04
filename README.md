@@ -12,9 +12,12 @@ Below is an overview of the various projects that can be found, and the skills (
 ```
 portfolio/
 │
+├── building_a_DWH/                              # Beginner-level warehouse construction and development notes
+│   ├── a_beginner_warehouse/                    # Data warehouse using medallion architecture
+│
 ├── SQL/                                         # SQL querying and analysis practice
-│   ├── Analyzing_Students_Mental_Health/        # Basic SQL: SELECT, filtering, GROUP BY, aggregation
-│   └── Exploring_London_Travel_Network/         # Snowflake SQL: joins, trends over time
+│   ├── analyzing_students_mental_health/        # Basic SQL: SELECT, filtering, GROUP BY, aggregation
+│   └── exploring_london_travel_network/         # Snowflake SQL: joins, trends over time
 │
 ├── pandas_practice/                             # Exploratory analysis and wrangling with Pandas
 │   ├── SATS_scores/                             # Grouping, merging, conditional logic in Pandas
