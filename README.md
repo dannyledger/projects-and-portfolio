@@ -13,7 +13,7 @@ Below is an overview of the various projects that can be found, and the skills (
 portfolio/
 │
 ├── building_a_DWH/                              # Beginner-level warehouse construction and development notes
-│   ├── a_beginner_warehouse/                    # Data warehouse using medallion architecture
+│   └── a_beginner_warehouse/                    # Data warehouse using medallion architecture
 │
 ├── SQL/                                         # SQL querying and analysis practice
 │   ├── analyzing_students_mental_health/        # Basic SQL: SELECT, filtering, GROUP BY, aggregation
