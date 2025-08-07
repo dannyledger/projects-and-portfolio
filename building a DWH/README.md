@@ -31,7 +31,7 @@ The goal: to explore data warehouse design and dimensional modellingâ€”hands-onâ
 
 ### Architect vs Engineer: A Learning Stretch
 
-As noted from my industry mentors, this project involves makes decisions typically handled by a **data architect**, not a junior engineer:
+As noted from my industry mentors, this project involves tasks and decisions typically handled by a **data architect**, not a junior engineer:
 
 | Architect-Led Areas | Typical Engineering Responsibility |
 |---------------------|-------------------------------------|
