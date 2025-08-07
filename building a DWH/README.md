@@ -1,5 +1,7 @@
 ## This project is a work-in-progress 🛠️
 
+**Completion status:** [██████░░░░░░░] 40%
+
 ### Overview
 
 This project is based on the [**SQL Data Warehouse from Scratch**](https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8&index=1) tutorial by **Data with Baraa**.
