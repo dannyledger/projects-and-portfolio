@@ -106,3 +106,7 @@ BEGIN
         PRINT '====================================';
     END CATCH
 END
+GO
+
+EXEC dbo.load_bronze;
+

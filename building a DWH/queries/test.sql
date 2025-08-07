@@ -1,1 +1,0 @@
-EXEC dbo.load_bronze;
