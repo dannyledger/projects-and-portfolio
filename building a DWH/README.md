@@ -1,6 +1,6 @@
 ## This project is a work-in-progress 🛠️
 
-**Completion status:** [██████░░░░░░░] 40%
+**Completion status:** [ 🟩🟩🟩🟩◻️◻️◻️◻️◻️◻️ ] 40%
 
 ### Overview
 
