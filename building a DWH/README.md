@@ -1,6 +1,6 @@
 ## This project is a work-in-progress 🛠️
 
-**Completion status:** [ 🟩🟩🟩🟩◻️◻️◻️◻️◻️◻️ ] 40%
+**Completion status:**    🟩🟩🟩🟩◻️◻️◻️◻️◻️◻️    40%
 
 ### Overview
 
@@ -35,9 +35,7 @@ As noted from my industry mentors, this project involves makes decisions typical
 
 | Architect-Led Areas                     | Typical Engineering Responsibility           |
 |----------------------------------------|----------------------------------------------|
-| Designing medallion architecture       | Writing ETL queries within a defined schema  |
-| Establishing naming and governance     | Loading data into staging or reporting layers |
-| Modelling dimensions & fact tables     | Maintaining and debugging transformation logic |
+| Designing medallion architecture, establishing naming & governance, Modelling dimensions & fact tables       | Writing ETL queries within a defined schema, Loading data into staging or reporting layers, Maintaining and debugging transformation logic |
 
 That said—**this stretch is the point**. I wanted to take on the challenge and widen my awareness.
 
