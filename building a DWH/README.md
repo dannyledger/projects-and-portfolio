@@ -33,9 +33,10 @@ The goal: to explore data warehouse design and dimensional modelling—hands-on�
 
 As noted from my industry mentors, this project involves makes decisions typically handled by a **data architect**, not a junior engineer:
 
-| Architect-Led Areas                     | Typical Engineering Responsibility           |
-|----------------------------------------|----------------------------------------------|
-| Designing medallion architecture, establishing naming & governance, Modelling dimensions & fact tables       | Writing ETL queries within a defined schema, Loading data into staging or reporting layers, Maintaining and debugging transformation logic |
+| Architect-Led Areas | Typical Engineering Responsibility |
+|---------------------|-------------------------------------|
+| <ul><li>Designing medallion architecture</li><li>Establishing naming & governance</li><li>Modelling dimensions & fact tables</li></ul> | <ul><li>Writing ETL queries within a defined schema</li><li>Loading data into staging or reporting layers</li><li>Maintaining and debugging transformation logic</li></ul> |
+
 
 That said—**this stretch is the point**. I wanted to take on the challenge and widen my awareness.
 
