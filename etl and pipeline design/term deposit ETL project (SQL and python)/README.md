@@ -64,15 +64,23 @@ Write SQL to:
     - Flag any term deposits where maturity is after 1 July 2024 as future_exposure.
 
 2. Derived columns:
-    - tenure_days = difference between start_date and maturity_date
-    - interest_due = principal * rate * (tenure_days / 365)
-    - Flag as early_withdrawal if status = withdrawn and maturity_date > current_date
+    - `tenure_days` = difference between `start_date` and `maturity_date`
+    - `interest_due` = `principal * rate * (tenure_days / 365)`
+    - Flag as `early_withdrawal` if status = `withdrawn` and `maturity_date` > `current_date`
 
 3. Join with Customers:
     - Enrich with age (based on dob) and risk_profile
     - Flag high-risk exposure if:
         - customer has risk_profile = 'medium' or 'high'
         - AND total active deposits > $10,000
+
+### Step 3: Reporting Table
+
+Create a final table/view `term_deposit_summary`:
+
+| td_id | customer_id | age | tenure_days | principal | interest_due | early_withdrawal | future_exposure | risk_profile |
+| ------ | ------------ | --- | ------------ | --------- | ------------- | ----------------- | ---------------- | ------------- |
+
 
 ## Bonus Queries
 
