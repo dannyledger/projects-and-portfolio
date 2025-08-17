@@ -10,6 +10,9 @@ Please note: the tasks and datasets likely originate either from _DataCamp_’s 
 Below is an overview of the various projects that can be found, and the skills (commented on the right-side) they look to demonstrate. 
 
 ```
+
+TO BE UPDATED - 18/08/2025
+
 portfolio/
 │
 ├── building_a_DWH/                       # early-level warehouse construction and development notes
