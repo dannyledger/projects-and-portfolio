@@ -10,6 +10,7 @@ Please note: the tasks and datasets likely originate either from _DataCamp_’s 
 Below is an overview of the various projects that can be found, and the skills (commented on the right-side) they look to demonstrate. 
 
 ```
+
 portfolio/
 │
 ├── data_analysis/                        # Exploratory analysis and wrangling with Pandas
@@ -34,5 +35,6 @@ portfolio/
 └── python_basics_and_archive/            # Core Python scripting skills
     ├── planets/                          # Loops, lists, and basic file handling
     └── movie_streaming/                  # Beginner Pandas and simple visualisation
+
 
 ```
