@@ -21,5 +21,3 @@ ClaimStream is a modern data pipeline project for a mid-sized health insurance c
 - Create a star schema for analytics
 - Enable dashboard reporting and fraud tracking
 
----
-Created as part of the HEALTH INSURANCE PIPELINE PROJECT.
