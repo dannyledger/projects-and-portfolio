@@ -10,24 +10,23 @@ Please note: the tasks and datasets likely originate either from _DataCamp_’s 
 Below is an overview of the various projects that can be found, and the skills (commented on the right-side) they look to demonstrate. 
 
 ```
+
 portfolio/
 │
-├── building_a_DWH/                       # early-level warehouse construction and development notes
-│   └── a_beginner_warehouse/             # Data warehouse in SQL Server using medallion architecture
-│
-├── SQL/                                  # SQL querying and analysis practice
-│   ├── analyzing_students_health/        # Basic SQL: SELECT, filtering, GROUP BY, aggregation
-│   └── exploring_travel_network/         # Snowflake SQL: joins, trends over time
-│
-├── pandas_practice/                      # Exploratory analysis and wrangling with Pandas
+├── data_analysis/                        # Exploratory analysis and wrangling with Pandas
 │   ├── SATS_scores/                      # Grouping, merging, conditional logic in Pandas
 │   ├── city_crimes/                      # Working with datetime, counts, and bar charts
 │   ├── nobel_prize/                      # Method chaining, filtering with multiple conditions
-│   └── star_wars_lego/                   # Trial-and-error EDA, dataset linking
+│   ├── star_wars_lego/                   # Trial-and-error EDA, dataset linking
+│   ├── analyzing_students_health/        # Basic SQL: SELECT, filtering, GROUP BY, aggregation
+│   └── exploring_travel_network/         # Snowflake SQL: joins, trends over time
 │
 ├── data_prep/                            # Data cleaning and optimisation
 │   ├── airbnb_data_prep/                 # Cleaning multi-format files and merging datasets
 │   └── prep_memory_reduce/               # Downcasting datatypes for memory efficiency
+│
+├── etl and pipeline design/              # early-level warehouse construction and development notes
+│   └── a_beginner_warehouse/             # Data warehouse in SQL Server using medallion architecture
 │
 ├── hypothesis_testing/                   # Introductory inferential statistics
 │   ├── drug_safety/                      # Two-sample t-tests, testing significance
@@ -36,5 +35,6 @@ portfolio/
 └── python_basics_and_archive/            # Core Python scripting skills
     ├── planets/                          # Loops, lists, and basic file handling
     └── movie_streaming/                  # Beginner Pandas and simple visualisation
+
 
 ```
